@@ -18,9 +18,7 @@ Se você está montando ou comprando um PC, estas são as peças indispensáveis
 
 \* Fonte de Alimentação: Deve ter potência suficiente para alimentar todas as peças com segurança.
 
-\* Periféricos Básicos: Monitor, teclado e mouse para interação. \[1, 2, 3, 4, 5] 
-
-
+\* Periféricos Básicos: Monitor, teclado e mouse para interação.
 
 2\. Programas Essenciais (Software)
 
@@ -38,7 +36,7 @@ Após instalar o sistema operacional (como o Windows 11), estes apps são fundam
 
 \* Organização e Notas: O Notion é uma ferramenta completa para gerenciar projetos, tarefas e notas pessoais.
 
-\* Segurança: O Windows Defender (nativo) geralmente é suficiente, mas um anti-malware complementar é recomendado por especialistas. \[6, 7, 8, 9, 10, 11, 12] 
+\* Segurança: O Windows Defender (nativo) geralmente é suficiente, mas um anti-malware complementar é recomendado por especialistas.
 
 
 
@@ -48,11 +46,5 @@ Após instalar o sistema operacional (como o Windows 11), estes apps são fundam
 
 \* Limpeza de Sistema: Evite o acúmulo de arquivos inúteis com ferramentas de limpeza e otimização para manter o PC rápido.
 
-\* Backup: Mantenha seus arquivos importantes em nuvem (como OneDrive ou Google Drive) para evitar perdas em caso de falha no hardware. \[13, 14, 15, 16, 17] 
-
-
-
-
-
-
+\* Backup: Mantenha seus arquivos importantes em nuvem (como OneDrive ou Google Drive) para evitar perdas em caso de falha no hardware. 
 
